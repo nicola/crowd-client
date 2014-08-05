@@ -1,4 +1,4 @@
-# crowd-express
+# crowd-client
 
 Generic client for [Crowd](https://github.com/nicola/crowd) that gets tasks, execute them and get to the next task.
 
