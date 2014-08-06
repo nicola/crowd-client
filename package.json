@@ -20,5 +20,7 @@
   "bugs": {
     "url": "https://github.com/nicola/crowd-client/issues"
   },
-  "homepage": "https://github.com/nicola/crowd-client"
+  "homepage": "https://github.com/nicola/crowd-client",
+  "dependencies": {
+  }
 }
