@@ -1,6 +1,6 @@
 {
   "name": "crowd-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generic client for crowd",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,11 @@
     "url": "https://github.com/nicola/crowd-client/issues"
   },
   "homepage": "https://github.com/nicola/crowd-client",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^5.9.1",
+    "gulp": "^3.8.7",
+    "rimraf": "^2.2.8",
+    "vinyl-source-stream": "^0.1.1"
   }
 }

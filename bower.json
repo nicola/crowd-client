@@ -1,0 +1,22 @@
+{
+  "name": "crowd-client",
+  "main": "dist/crowd-client.js",
+  "version": "0.0.2",
+  "homepage": "https://github.com/nicola/crowd-client",
+  "authors": [
+    "Nicola Greco <me@nicola.io>"
+  ],
+  "keywords": [
+    "crowd",
+    "crowd",
+    "computing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
